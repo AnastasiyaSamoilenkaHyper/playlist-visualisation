@@ -99,3 +99,7 @@ body {
 .playlist-grid .playlist-item.active .playlist-item-title {
   opacity: 1;
 }
+
+h1{
+  color: white;
+}
